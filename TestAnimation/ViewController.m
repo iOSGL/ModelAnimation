@@ -22,6 +22,7 @@
    
     [self configeNavationItem];
     _modelAnimatiomController = [[ModelAnimation alloc]init];
+    self.view.backgroundColor = [UIColor orangeColor];
     
 }
 #pragma mark - configNavationItem
